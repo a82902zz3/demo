@@ -4,7 +4,7 @@ def reverse(s):
 		reverse_string+=string
 	return reverse_string
 	
-string =" i am so hHHHandsome guy !!!"
+string =" that is an apple !!"
 string_list = string.split()
 
 for index in range(len(string_list)):
