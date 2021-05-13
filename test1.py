@@ -1,4 +1,3 @@
-
 string = "i am a JX3 PLAYER!"
 reverse_string= ""
 
